@@ -37,7 +37,7 @@ h1 {
   height: 40px;
   padding: 5px;
   float: right;
-  margin-right: 38px;
+  margin-right: 32px;
   margin-top: 0px;
   font-weight: bold;
   position: relative;
@@ -58,7 +58,7 @@ h1 {
 p.content-name{
   box-sizing: style-box;
   font-weight:bold;
-  font-family:Arial;
+  font-family:Arial, Helvetica, sans-serif;
   font-size: 125%;
 }
 
