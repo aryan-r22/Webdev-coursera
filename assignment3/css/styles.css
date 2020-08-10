@@ -1,0 +1,83 @@
+body {
+  font-size: 16px;
+  color: black;
+  background-color: white;
+  
+}
+
+/** HEADER **/
+#header-nav {
+  background-color: grey;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand {
+  padding-top: 25px;
+}
+
+.navbar-brand h1 { 
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color:black;
+  font-size: 1.5em;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: ;
+  line-height: 0;
+
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: black;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+/* END HEADER */
+
+/* START BODY */
+
+#top-heading
+{
+  font-weight:bold;
+  margin-bottom: 30px;
+  font-size: 32px;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.menu-heading
+{
+  font-weight:bold;
+  text-align:center;
+  margin-top:15px;
+  font-size: 23px;
+  background-color: grey;
+}
+#contents
+{
+  font-weight:normal;
+  padding-top: 15px;
+  font-size:0.8em;
+  font-style:"Times New Roman",serif;
+}
+
